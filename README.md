@@ -1,4 +1,8 @@
-<h2 align="left">Hola 👋! Soy Jonathan Meléndez,  estudiante en camino a convertirme en Ingeniero de Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h2>
+<h2 align="left">Hola 👋! Soy Jonathan Meléndez, estudiante en camino a convertirme en Ingeniero de Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h2>
+
+###
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:007bff&height=200&section=header&text=Bienvenid@s%20a%20mi%20perfil!&fontSize=35&fontColor=ffffff" />
 
 ###
 
@@ -55,10 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JuniRanger/JuniRanger/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jonathan-mel%C3%A9ndez-4a7652306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -66,3 +66,9 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://github.com/JuniRanger/cv/blob/main/JonathanMelendez_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar%20CV-FF6F61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" alt="cv logo"  />
+  </a>
+</div>
