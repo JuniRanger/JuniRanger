@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Soy Jonathan Meléndez, estudiante en camino a convertirme en Ingeniero de Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h2>
+<h2 align="left">Hola 👋! Soy Jonathan Meléndez, Desarrollador Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h2>
 
 ###
 
