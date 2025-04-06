@@ -64,11 +64,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://github.com/JuniRanger/cv/blob/main/JonathanMelendez_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar%20CV-FF6F61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" alt="cv logo"  />
-  </a>
-</div>
