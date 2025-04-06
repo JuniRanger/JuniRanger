@@ -59,10 +59,6 @@
 
 <br clear="both">
 
-###
-
-<img src="https://raw.githubusercontent.com/JuniRanger/JuniRanger/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jonathan-mel%C3%A9ndez-4a7652306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
