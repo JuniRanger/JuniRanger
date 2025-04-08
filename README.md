@@ -1,11 +1,10 @@
-<h1 align="center">Hola 👋! Soy Jonathan Meléndez,  estudiante en camino a convertirme en Ingeniero de Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h1>
+![Bienvenid@ a mi perfil](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM1cjN0bG5hNXhpMmFzNzZ3eTRnOHRidzM4Y2ljMnNlY256dHlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+
+<h1 align="left">Hola 👋! Soy Jonathan Meléndez,  Desarrollador Backend. 🌱💻</h1>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniRanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">🚀 Finalizando mi TSU en Desarrollo de Software Multiplataforma 🎓</p>
 
 ###
 
@@ -74,6 +73,12 @@
   <a href="mailto:jonathanmelendezaguilera@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM1cjN0bG5hNXhpMmFzNzZ3eTRnOHRidzM4Y2ljMnNlY256dHlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
 ###
