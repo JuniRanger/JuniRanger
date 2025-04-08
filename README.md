@@ -1,14 +1,15 @@
-<h2 align="left">Hola 👋! Soy Jonathan Meléndez, Desarrollador Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h2>
+<h1 align="center">Hola 👋! Soy Jonathan Meléndez,  estudiante en camino a convertirme en Ingeniero de Backend. Actualmente estoy finalizando mi carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma. 🌱💻</h1>
 
 ###
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:007bff&height=200&section=header&text=Bienvenid@s%20a%20mi%20perfil!&fontSize=35&fontColor=ffffff" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniRanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -58,8 +59,27 @@
 
 <br clear="both">
 
-<div align="left">
+<img src="https://raw.githubusercontent.com/JuniRanger/JuniRanger/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">🤝 Conéctate Conmigo</h2>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/jonathan-mel%C3%A9ndez-4a7652306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+  <a href="jonathanmelendezaguilera@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuniRanger.JuniRanger&right_color=darkmagenta"  />
+</div>
+
+###
