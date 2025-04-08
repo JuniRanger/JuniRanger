@@ -1,5 +1,3 @@
-![Bienvenid@ a mi perfil](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM1cjN0bG5hNXhpMmFzNzZ3eTRnOHRidzM4Y2ljMnNlY256dHlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
-
 <h1 align="left">Hola 👋! Soy Jonathan Meléndez,  Desarrollador Backend. 🌱💻</h1>
 
 ###
