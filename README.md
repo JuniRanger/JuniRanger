@@ -7,12 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
+  <!-- Usando Lottie para íconos animados -->
+  <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_c6hfi0cz.json" background="transparent" speed="1" loop autoplay></lottie-player>
+  <br />
+  
+  <!-- Badge de Tecnologías con íconos estáticos -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
