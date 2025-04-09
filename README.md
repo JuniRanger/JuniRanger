@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:007bff&height=200&section=header&text=Bienvenid@s%20a%20mi%20perfil!&fontSize=35&fontColor=ffffff" />
 <h1 align="left">Hola 👋! Soy Jonathan Meléndez,  Desarrollador Backend. 🌱💻</h1>
 
 ###
@@ -55,20 +54,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuniRanger/JuniRanger/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniRanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">🤝 Conéctate Conmigo</h2>
+<h2 align="left">🤝 Contáctame</h2>
 
 ###
 
@@ -79,6 +65,17 @@
   <a href="mailto:jonathanmelendezaguilera@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JuniRanger/JuniRanger/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniRanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JuniRanger&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
