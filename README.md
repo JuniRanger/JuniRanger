@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:007bff&height=200&section=header&text=Bienvenid@s%20a%20mi%20perfil!&fontSize=35&fontColor=ffffff" />
-<h1 align="left">Jonathan Meléndez — Backend Engineer 💻</h1>
+
+<h1 align="center">Jonathan Meléndez — Backend Engineer</h1>
 
 ###
 
-<p align="left">
+<p align="center">
 Backend engineer focused on building scalable APIs and microservices with .NET and Node.js.  
 Experience working in production environments, handling deployments, debugging systems, and collaborating with cross-functional teams.
 </p>
 
-<p align="left">
+<p align="center">
 Strong focus on clean architecture, maintainable systems, and backend logic. Comfortable contributing across the stack when needed.
 </p>
 
