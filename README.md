@@ -1,9 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:007bff&height=200&section=header&text=Bienvenid@s%20a%20mi%20perfil!&fontSize=35&fontColor=ffffff" />
-<h1 align="left">Hola 👋! Soy Jonathan Meléndez,  Desarrollador Backend. 🌱💻</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Backend%20Engineer%20%7C%20.NET%20%26%20Node.js&fontSize=32&fontColor=ffffff" />
+<h1 align="left">Jonathan Meléndez — Backend Engineer 💻</h1>
 
 ###
 
-<p align="left">🚀 Finalizando mi TSU en Desarrollo de Software Multiplataforma 🎓</p>
+<p align="left">
+Backend engineer focused on building scalable APIs and microservices with .NET and Node.js.  
+Experience working in production environments, handling deployments, debugging systems, and collaborating with cross-functional teams.
+</p>
+
+<p align="left">
+Strong focus on clean architecture, maintainable systems, and backend logic. Comfortable contributing across the stack when needed.
+</p>
 
 ###
 
@@ -55,7 +62,7 @@
 
 ###
 
-<h2 align="left">🤝 Contáctame</h2>
+<h2 align="left">🤝 Contact me</h2>
 
 ###
 
@@ -89,9 +96,4 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuniRanger.JuniRanger&right_color=darkmagenta"  />
-</div>
-
 ###
