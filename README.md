@@ -1,10 +1,10 @@
 
-<h1 align="center">Jonathan Meléndez — Fullstack Engineer</h1>
+<h1 align="center">Jonathan Meléndez — Software Engineer</h1>
 
 ###
 
 <p align="center">
-Fullstack engineer focused on building scalable APIs and microservices with .NET and Node.js.  
+Software engineer focused on building scalable APIs and microservices with .NET and Node.js.  
 Experience working in production environments, handling deployments, debugging systems, and collaborating with cross-functional teams.
 </p>
 
